@@ -13,6 +13,10 @@
 
 # to attach pictures
 # ![nama terserah](../assets/image/namafilepicturemu)
+
+# things to remember
+if cant push remember terminal cd praktikum-jarkom
+
  
 
 
